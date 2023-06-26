@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @abluman
+- and i am not! a compsci person
+- 🌱 i am taking cs50x this summer
