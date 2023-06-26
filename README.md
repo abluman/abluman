@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @abluman
-- and i am not! a compsci person
-- i am taking cs50x this summer to give myself a foundation !
+- and i am not a compsci person
+- i am taking cs50x this summer to give myself a foundation in cs
